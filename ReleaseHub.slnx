@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ReleaseHub.API/ReleaseHub.API.csproj" />
+    <Project Path="src/ReleaseHub.Application/ReleaseHub.Application.csproj" />
+    <Project Path="src/ReleaseHub.Domain/ReleaseHub.Domain.csproj" />
+    <Project Path="src/ReleaseHub.Infrastructure/ReleaseHub.Infrastructure.csproj" />
+  </Folder>
+  <Project Path="ReleaseHub.Tests/ReleaseHub.Tests.csproj" Id="b0eee4c8-744c-4716-85d6-1b7909635d7d" />
+</Solution>
